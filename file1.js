@@ -13,4 +13,4 @@ Better Feature
 Bug Fix
 Bug Fix
 Bad Fix
-// Blah Blah more bugs more bugs Blah Blah //
+// Blah Blah more bugs more features Blah Blah //
