@@ -8,9 +8,9 @@
 9
 10
 *
-Good Feature
+Better Feature
 *
-Bug Bug Bug
-Bug Continue
-Bad Code
+Bug Fix
+Bug Fix
+Bad Fix
 // Blah Blah comment Blah Blah //
