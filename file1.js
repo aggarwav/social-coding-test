@@ -1,9 +1,9 @@
 1
 22
 3
-4
-5
-6
+四
+五
+六
 7777777777
 9
 10
@@ -30,10 +30,10 @@ author 1 version 2 changed this line. author 2 version 2 is co-author
 
 
 
+Communism
 
 
-
-
+Everyone agrees on line 36
 
 
 
