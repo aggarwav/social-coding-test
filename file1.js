@@ -6,7 +6,7 @@ five
 6
 7777777777
 Implement Policy 1
-Iran Nuclear Deal
+Revert the Iran Nuclear Deal
 10
 *
 Better Feature
