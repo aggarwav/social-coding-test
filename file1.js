@@ -1,11 +1,12 @@
 1
 22
 3
-4
-5
+four
+five
 6
 7777777777
-9
+Implement Policy 1
+Implement Policy 2 to keep the numbers in sync
 10
 *
 Better Feature
@@ -29,11 +30,9 @@ author 1 version 2 changed this line. author 2 version 2 is co-author
 author 1 version 2 changed this line. author 2 version 2 is co-author
 
 
+Capitalism
 
-
-
-
-
+Everyone agrees on line 36
 
 
 
