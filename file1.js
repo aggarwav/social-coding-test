@@ -6,7 +6,7 @@ five
 6
 7777777777
 Implement Policy 1
-Implement Policy 2 to keep the numbers in sync
+Iran Nuclear Deal
 10
 *
 Better Feature
