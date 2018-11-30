@@ -43,9 +43,9 @@ Space Creator Ends
 
 
 
-line 1 squash
-line 2 squash
-line 3 squash
+remote line 1 squash
+remote line 2 squash
+remote line 3 squash
 
 
 
