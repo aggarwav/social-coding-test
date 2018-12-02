@@ -24,7 +24,7 @@ author 1 and author 2 changed this line
 adding some sick features to this project
 :sunglasses::sunglasses::sunglasses:
 
-Or literally sick features
+Removed this sick feature
 :cold_sweat::cold_sweat::cold_sweat:
 
 
@@ -50,11 +50,11 @@ remote line 3 squash
 Bug killa # 1 was here
 
 
+Add back some removed functionality
 
 
 
-
-
+Modify modify modify
 
 
 
