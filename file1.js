@@ -24,7 +24,7 @@ author 1 and author 2 changed this line
 adding some sick features to this project
 :sunglasses::sunglasses::sunglasses:
 
-Or literally sick features
+Removed this sick feature
 :cold_sweat::cold_sweat::cold_sweat:
 
 
