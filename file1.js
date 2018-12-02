@@ -1,7 +1,7 @@
 1
 22
 3
-四
+Bug killa # 1 was here
 五
 六
 7777777777
@@ -47,9 +47,7 @@ remote line 1 squash
 remote line 2 squash
 remote line 3 squash
 
-squashing bug fix 1 2 3
-squashing bug fix 2 2 3
-squashing bug fix 3 2 3
+Bug killa # 1 was here
 
 
 
